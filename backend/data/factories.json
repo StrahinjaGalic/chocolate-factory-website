@@ -1,0 +1,275 @@
+[
+  {
+    "id": "6e2d3f4b-5a68-90bc-def1-2345678901bc",
+    "name": "Niki Kiki Chocolatier",
+    "chocolates": [
+      {
+        "id": "c34d5e6f-3456-7890-12cd-ef3456789d",
+        "name": "Caramel Filled Chocolate",
+        "price": 3.99,
+        "type": "Milk",
+        "kind": "Filled",
+        "weight": 100,
+        "description": "Chocolate filled with caramel",
+        "image": "http://localhost:3000/images/caramel-filled-choco.jpg",
+        "quantity": 47,
+        "status": "Ima na stanju"
+      },
+      {
+        "id": "b23c4d5e-2345-6789-01bc-def3456789c",
+        "name": "White Chocolate Almonds",
+        "price": 5.49,
+        "type": "White",
+        "kind": "Nuts",
+        "weight": 200,
+        "description": "White chocolate covered almonds",
+        "image": "http://localhost:3000/images/white-choco-almonds.jpg",
+        "quantity": 80,
+        "status": "Ima na stanju"
+      }
+    ],
+    "workingHours": "10 AM - 7 PM",
+    "status": "Open",
+    "location": {
+      "id": "eeb3d03e-4e88-48c3-8df4-2c033694319d",
+      "longitude": 2.294351,
+      "latitude": 48.858844,
+      "address": "Eiffel Tower, Paris, Île-de-France, France",
+      "deleted": false
+    },
+    "logo": "http://localhost:3000/images/maxresdefault.jpg",
+    "rating": 5,
+    "deleted": false
+  },
+  {
+    "id": "7g3h4i5j-6b79-01cd-ef23-3456789012cd",
+    "name": "Mrkson Chocolate Factory",
+    "chocolates": [
+      {
+        "id": "a12b3c4d-1234-5678-90ab-cdef3456789b",
+        "name": "Milk Chocolate Truffles",
+        "price": 4.99,
+        "type": "Milk",
+        "kind": "Truffles",
+        "weight": 150,
+        "description": "Creamy milk chocolate truffles",
+        "image": "http://localhost:3000/images/milk-truffles.jpg",
+        "quantity": 30,
+        "status": "Ima na stanju"
+      },
+      {
+        "id": "e56f7g8h-5678-9012-34ef-3456789f",
+        "name": "Mint Chocolate Chip",
+        "price": 3.49,
+        "type": "Mint",
+        "kind": "Bar",
+        "weight": 100,
+        "description": "Mint flavored chocolate with chips",
+        "image": "http://localhost:3000/images/mint-choco.jpg",
+        "quantity": 58,
+        "status": "Ima na stanju"
+      },
+      {
+        "id": "d45e6f7g-4567-8901-23de-f3456789e",
+        "name": "Hazelnut Dark Chocolate",
+        "price": 4.49,
+        "type": "Dark",
+        "kind": "Nuts",
+        "weight": 120,
+        "description": "Dark chocolate with hazelnuts",
+        "image": "http://localhost:3000/images/dark_choco.jpg",
+        "quantity": 30,
+        "status": "Ima na stanju"
+      }
+    ],
+    "workingHours": "8 AM - 5 PM",
+    "status": "Open",
+    "location": {
+      "id": "6d836e5f-bff9-43d7-8d28-6936257236c2",
+      "longitude": 116.570374,
+      "latitude": 40.431908,
+      "address": "Great Wall of China, Beijing, China",
+      "deleted": false
+    },
+    "logo": "http://localhost:3000/images/download.jpg",
+    "rating": 4,
+    "deleted": false
+  },
+  {
+    "id": "7b7531fd-518a-4ea2-9db1-f47902f15ee1",
+    "name": "This is a sample factory",
+    "chocolates": [
+      {
+        "id": "c68d7e6a-7f8c-4e57-bd47-5e3b6f7b3b49",
+        "name": "Niki Chocolate Bar",
+        "price": 4,
+        "type": "Dark",
+        "kind": "Bar",
+        "weight": 100,
+        "description": "Rich dark chocolate bar",
+        "image": "http://localhost:3000/images/dark_choco.jpg",
+        "quantity": 70,
+        "status": "Ima na stanju"
+      },
+      {
+        "id": "a12b3c4d-1234-5678-90ab-cdef3456789b",
+        "name": "Milk Chocolate Truffles",
+        "price": 4.99,
+        "type": "Milk",
+        "kind": "Truffles",
+        "weight": 150,
+        "description": "Creamy milk chocolate truffles",
+        "image": "http://localhost:3000/images/milk-truffles.jpg",
+        "quantity": 50,
+        "status": "Ima na stanju"
+      },
+      {
+        "id": "d45e6f7g-4567-8901-23de-f3456789e",
+        "name": "Hazelnut Dark Chocolate",
+        "price": 4.49,
+        "type": "Dark",
+        "kind": "Nuts",
+        "weight": 120,
+        "description": "Dark chocolate with hazelnuts",
+        "image": "http://localhost:3000/images/dark_choco.jpg",
+        "quantity": 40,
+        "status": "Ima na stanju"
+      },
+      {
+        "id": "b23c4d5e-2345-6789-01bc-def3456789c",
+        "name": "White Chocolate Almonds",
+        "price": 5.49,
+        "type": "White",
+        "kind": "Nuts",
+        "weight": 200,
+        "description": "White chocolate covered almonds",
+        "image": "http://localhost:3000/images/white-choco-almonds.jpg",
+        "quantity": 80,
+        "status": "Ima na stanju"
+      }
+    ],
+    "workingHours": "9 AM - 6 PM",
+    "status": "Open",
+    "location": {
+      "id": "1a2b3c4d-5678-90ab-cdef-1234567890ab",
+      "longitude": 151.215256,
+      "latitude": -33.856159,
+      "address": "Sydney Opera House, Bennelong Point, Sydney NSW 2000, Australia"
+    },
+    "logo": "http://localhost:3000/images/maxresdefault.jpg",
+    "rating": 3.5,
+    "deleted": false
+  },
+  {
+    "id": "7b7531fd-518a-4ea2-9db1-f47902f15gm3",
+    "name": "Renovating Factory",
+    "chocolates": [
+      {
+        "id": "c68d7e6a-7f8c-4e57-bd47-5e3b6f7b3b49",
+        "name": "Niki Chocolate Bar",
+        "price": 4,
+        "type": "Dark",
+        "kind": "Bar",
+        "weight": 100,
+        "description": "Rich dark chocolate bar",
+        "image": "http://localhost:3000/images/dark_choco.jpg",
+        "quantity": 70,
+        "status": "Ima na stanju"
+      },
+      {
+        "id": "a12b3c4d-1234-5678-90ab-cdef3456789b",
+        "name": "Milk Chocolate Truffles",
+        "price": 4.99,
+        "type": "Milk",
+        "kind": "Truffles",
+        "weight": 150,
+        "description": "Creamy milk chocolate truffles",
+        "image": "http://localhost:3000/images/milk-truffles.jpg",
+        "quantity": 50,
+        "status": "Ima na stanju"
+      },
+      {
+        "id": "d45e6f7g-4567-8901-23de-f3456789e",
+        "name": "Hazelnut Dark Chocolate",
+        "price": 4.49,
+        "type": "Dark",
+        "kind": "Nuts",
+        "weight": 120,
+        "description": "Dark chocolate with hazelnuts",
+        "image": "http://localhost:3000/images/dark_choco.jpg",
+        "quantity": 40,
+        "status": "Ima na stanju"
+      },
+      {
+        "id": "b23c4d5e-2345-6789-01bc-def3456789c",
+        "name": "White Chocolate Almonds",
+        "price": 5.49,
+        "type": "White",
+        "kind": "Nuts",
+        "weight": 200,
+        "description": "White chocolate covered almonds",
+        "image": "http://localhost:3000/images/white-choco-almonds.jpg",
+        "quantity": 80,
+        "status": "Ima na stanju"
+      }
+    ],
+    "workingHours": "9 AM - 6 PM",
+    "status": "Closed",
+    "location": {
+      "id": "1a2b3c4d-5678-90ab-cdef-1234567890ab",
+      "longitude": 151.215256,
+      "latitude": -33.856159,
+      "address": "Sydney Opera House, Bennelong Point, Sydney NSW 2000, Australia"
+    },
+    "logo": "http://localhost:3000/images/download.jpg",
+    "rating": 3.5,
+    "deleted": false
+  },
+  {
+    "id": "23cd07f0-5e9e-44b0-a041-354bb5405844",
+    "name": "testing",
+    "chocolates": [],
+    "workingHours": "01h - 09h",
+    "status": "Open",
+    "location": {
+      "id": "98d5953e-b20e-458d-895f-67335dd0c71f",
+      "longitude": 6.534366809760255,
+      "latitude": 44.92142435430816,
+      "address": "Crêtes, Goulet, 05240 La Salle-les-Alpes, France",
+      "deleted": false
+    },
+    "logo": "http://localhost:3000/images/1719409646504.jpg",
+    "rating": 4,
+    "deleted": false
+  },
+  {
+    "id": "c60544e4-c726-411d-9fa2-410d5cc23617",
+    "name": "choc test",
+    "chocolates": [
+      {
+        "id": "acc33e11-dc1a-4333-8bb4-eb5882ba1b89",
+        "name": "Protein Chocolate",
+        "price": 20,
+        "type": "Protein",
+        "kind": "Caramel",
+        "weight": 65,
+        "description": "lightweight baby",
+        "image": "http://localhost:3000/images/1719484824151.jpg",
+        "quantity": 24,
+        "status": "Nema na stanju"
+      }
+    ],
+    "workingHours": "02h - 12h",
+    "status": "Open",
+    "location": {
+      "id": "2fcba6f7-935e-437f-aa10-87896f43cf1d",
+      "longitude": -81.49338374291115,
+      "latitude": 45.67902277731116,
+      "address": "Northeastern Manitoulin and the Islands, ON, Canada",
+      "deleted": false
+    },
+    "logo": "http://localhost:3000/images/1719484288973.jpg",
+    "rating": 4.25,
+    "deleted": false
+  }
+]

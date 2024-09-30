@@ -1,0 +1,29 @@
+[
+  {
+    "id": "7c8c8c69-c4bc-4d06-a80d-aa4d9f7d894e",
+    "customer": "b9908e7d-7d5d-4fb1-b2e8-6a8a13e8fa68",
+    "factory": "6e2d3f4b-5a68-90bc-def1-2345678901bc",
+    "text": "Great selection of chocolates!",
+    "rating": 5,
+    "approved": false,
+    "deleted": false
+  },
+  {
+    "id": "7c8c8c69-c4bc-4d06-a80d-aa4d9f7d8asd",
+    "customer": "b9908e7d-7d5d-4fb1-b2e8-6a8a13e8fa68",
+    "factory": "c60544e4-c726-411d-9fa2-410d5cc23617",
+    "text": "Great selection of chocolates!",
+    "rating": 5,
+    "approved": true,
+    "deleted": false
+  },
+  {
+    "id": "13e4b3dd-f886-45fb-9a1b-1e4f1d64979f",
+    "text": "gggg",
+    "rating": 4,
+    "customer": "4",
+    "factory": "c60544e4-c726-411d-9fa2-410d5cc23617",
+    "approved": true,
+    "deleted": false
+  }
+]

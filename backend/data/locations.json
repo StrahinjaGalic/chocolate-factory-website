@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1a2b3c4d-5678-90ab-cdef-1234567890ab",
+    "longitude": 151.215256,
+    "latitude": -33.856159,
+    "address": "Sydney Opera House, Bennelong Point, Sydney NSW 2000, Australia",
+    "deleted": false
+  },
+  {
+    "id": "2b3c4d5e-6789-01bc-def2-3456789012cd",
+    "longitude": 2.294351,
+    "latitude": 48.858844,
+    "address": "Eiffel Tower, Paris, Île-de-France, France",
+    "deleted": false
+  },
+  {
+    "id": "3c4d5e6f-7890-12cd-ef34-5678901234ef",
+    "longitude": 116.570374,
+    "latitude": 40.431908,
+    "address": "Great Wall of China, Beijing, China",
+    "deleted": false
+  },
+  {
+    "id": "98d5953e-b20e-458d-895f-67335dd0c71f",
+    "longitude": 6.534366809760255,
+    "latitude": 44.92142435430816,
+    "address": "Crêtes, Goulet, 05240 La Salle-les-Alpes, France",
+    "deleted": false
+  },
+  {
+    "id": "d6a0f0d1-c4a0-4fea-8f48-e8c578888135",
+    "longitude": 19.099702551604775,
+    "latitude": 44.379348277026054,
+    "address": "unnamed road, 75400 Zvornik, Bosnia and Herzegovina",
+    "deleted": false
+  },
+  {
+    "id": "bf99c410-1ea1-48e9-b9ba-ed382f42601b",
+    "longitude": 126.71128411486143,
+    "latitude": 37.906769372668364,
+    "address": "South Korea, Gyeonggi, Paju-si, Jangdan-myeon, Huimang-ro",
+    "deleted": false
+  },
+  {
+    "id": "3a6d001e-e2f0-4cbf-a7b4-8acd232211df",
+    "longitude": 30.050248375533783,
+    "latitude": 51.414384171250305,
+    "address": "Builders Avenue, Vyshhorod Raion, Prypiat, Kyiv Oblast, 01196, Ukraine",
+    "deleted": false
+  },
+  {
+    "id": "97396f64-1c14-4a3c-b969-24328ed76782",
+    "longitude": -85.76632798777466,
+    "latitude": 38.25802924796628,
+    "address": "Kentucky Peerless Distilling Co., 120 North 10th Street, Louisville, KY 40202, United States of America",
+    "deleted": false
+  },
+  {
+    "id": "58fef40b-4647-47e9-a9a6-971729da92d1",
+    "longitude": -81.49338374291115,
+    "latitude": 45.67902277731116,
+    "address": "Northeastern Manitoulin and the Islands, ON, Canada",
+    "deleted": false
+  }
+]

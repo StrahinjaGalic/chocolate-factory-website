@@ -1,0 +1,218 @@
+[
+  {
+    "id": "1",
+    "username": "admin",
+    "password": "admin123",
+    "name": "Adminovic",
+    "surname": "Prezime",
+    "gender": "Male",
+    "dateOfBirth": "1990-01-01",
+    "role": "admin",
+    "purchases": [],
+    "cart": [],
+    "chocolateFactory": {
+      "id": "",
+      "name": ""
+    },
+    "points": 100,
+    "customerType": {
+      "name": "Regular",
+      "discountPercentage": 10,
+      "pointsRequiredForDiscount": 100
+    },
+    "deleted": false,
+    "blocked": false
+  },
+  {
+    "id": "2",
+    "username": "manager",
+    "password": "manager123",
+    "name": "Manager",
+    "surname": "Smith",
+    "gender": "Female",
+    "dateOfBirth": "1985-05-15",
+    "role": "manager",
+    "purchases": [],
+    "cart": [],
+    "chocolateFactory": {
+      "id": "c60544e4-c726-411d-9fa2-410d5cc23617",
+      "name": "choc test"
+    },
+    "points": 80,
+    "customerType": {
+      "name": "Regular",
+      "discountPercentage": 10,
+      "pointsRequiredForDiscount": 100
+    },
+    "deleted": false,
+    "blocked": false
+  },
+  {
+    "id": "3",
+    "username": "worker",
+    "password": "worker123",
+    "name": "Worker",
+    "surname": "Brown",
+    "gender": "Male",
+    "dateOfBirth": "1995-08-20",
+    "role": "worker",
+    "purchases": [],
+    "cart": [],
+    "chocolateFactory": {
+      "id": "c60544e4-c726-411d-9fa2-410d5cc23617",
+      "name": "choc test"
+    },
+    "points": 50,
+    "customerType": {
+      "name": "Regular",
+      "discountPercentage": 10,
+      "pointsRequiredForDiscount": 100
+    },
+    "deleted": false,
+    "blocked": false
+  },
+  {
+    "id": "4",
+    "username": "customer",
+    "password": "customer123",
+    "name": "Customer",
+    "surname": "Johnson",
+    "gender": "Female",
+    "dateOfBirth": "2000-12-05",
+    "role": "customer",
+    "purchases": [],
+    "cart": [],
+    "chocolateFactory": {
+      "id": "",
+      "name": ""
+    },
+    "points": 65,
+    "customerType": {
+      "name": "Premium",
+      "discountPercentage": 10,
+      "pointsRequiredForDiscount": 100
+    },
+    "deleted": false,
+    "blocked": false
+  },
+  {
+    "id": "049ba58e-a6cc-4484-a40a-790e7334d727",
+    "username": "a",
+    "password": "a",
+    "name": "asss",
+    "surname": "dsdas",
+    "gender": "Female",
+    "dateOfBirth": "2024-06-21",
+    "role": "manager",
+    "purchases": [],
+    "cart": [],
+    "chocolateFactory": {
+      "id": "7g3h4i5j-6b79-01cd-ef23-3456789012cd",
+      "name": "Mrkson Chocolate Factory"
+    },
+    "points": 0,
+    "customerType": {
+      "name": "",
+      "discountPercentage": 0,
+      "pointsRequiredForDiscount": 0
+    },
+    "deleted": false,
+    "blocked": false
+  },
+  {
+    "id": "46e35d26-60a8-456e-a100-15b3c6908b41",
+    "username": "a123",
+    "password": "$2b$10$Xgaq2VNB.j4T1tIransjfejv3ThnK9WYDbEOh3LPlGG5YwvZIc63S",
+    "name": "aminoacid",
+    "surname": "bcaa",
+    "gender": "Male",
+    "dateOfBirth": "2024-02-23",
+    "role": "worker",
+    "purchases": [],
+    "cart": [],
+    "chocolateFactory": {
+      "id": "c60544e4-c726-411d-9fa2-410d5cc23617",
+      "name": "choc test"
+    },
+    "points": 0,
+    "customerType": {
+      "name": "",
+      "discountPercentage": 0,
+      "pointsRequiredForDiscount": 0
+    },
+    "deleted": false,
+    "blocked": false
+  },
+  {
+    "id": "5aab4439-b0ca-4ca8-8447-d832e9bd7317",
+    "username": "customer12",
+    "password": "customer",
+    "name": "strahinja",
+    "surname": "galic",
+    "gender": "Male",
+    "dateOfBirth": "1967-05-03",
+    "role": "customer",
+    "purchases": [],
+    "cart": [],
+    "chocolateFactory": {
+      "id": "",
+      "name": ""
+    },
+    "points": 0,
+    "customerType": {
+      "name": "Regular",
+      "discountPercentage": 0,
+      "pointsRequiredForDiscount": 0
+    },
+    "deleted": false,
+    "blocked": false
+  },
+  {
+    "id": "5a37d5b0-141e-4023-9e46-7e3223dceabc",
+    "username": "nicifor",
+    "password": "1",
+    "name": "nicifor",
+    "surname": "nici",
+    "gender": "Female",
+    "dateOfBirth": "2024-07-01",
+    "role": "customer",
+    "purchases": [],
+    "cart": [],
+    "chocolateFactory": {
+      "id": "",
+      "name": ""
+    },
+    "points": 0,
+    "customerType": {
+      "name": "Regular",
+      "discountPercentage": 0,
+      "pointsRequiredForDiscount": 0
+    },
+    "deleted": false,
+    "blocked": false
+  },
+  {
+    "id": "5f265d12-e2d0-426a-9935-6e21b0a6ad5c",
+    "username": "mrksooonnn",
+    "password": "1",
+    "name": "mile",
+    "surname": "kitic",
+    "gender": "Female",
+    "dateOfBirth": "2024-07-30",
+    "role": "customer",
+    "purchases": [],
+    "cart": [],
+    "chocolateFactory": {
+      "id": "",
+      "name": ""
+    },
+    "points": 0,
+    "customerType": {
+      "name": "Regular",
+      "discountPercentage": 0,
+      "pointsRequiredForDiscount": 0
+    },
+    "deleted": false,
+    "blocked": false
+  }
+]
